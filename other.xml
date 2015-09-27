@@ -51,8 +51,7 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
-  <component name="JavaFxSettings">
-    <option name="pathToSceneBuilder" value="$USER_HOME$/AppData/Local/SceneBuilder/SceneBuilder.exe" />
-    <option name="myPathToSceneBuilder" value="$USER_HOME$/AppData/Local/SceneBuilder/SceneBuilder.exe" />
+  <component name="DependencyUISettings">
+    <option name="SCOPE_TYPE" value="file" />
   </component>
 </application>
