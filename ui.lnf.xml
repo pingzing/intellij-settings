@@ -2,5 +2,6 @@
   <component name="UISettings">
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="SHOW_NAVIGATION_BAR" value="false" />
+    <option name="MAX_LOOKUP_WIDTH2" value="560" />
   </component>
 </application>
